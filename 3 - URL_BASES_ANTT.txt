@@ -1,0 +1,4 @@
+TU = Toneladas
+TKU = Toneladas por km/útil
+
+Fonte dos dados ANTT: https://dados.antt.gov.br/
